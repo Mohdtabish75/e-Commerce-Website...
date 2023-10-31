@@ -453,24 +453,12 @@ footer a:hover{
     }
     #feature .fe-box{
         margin: 15px 15px;
-        width: 140px;
     }
     #product .pro-container{
         justify-content: center;
     }
     #product .pro{
         margin: 15px;
-        min-width: 140px;
-    }
-    #product .pro .des h5{
-        padding-top: 0px;
-        font-size: 10px;
-    }
-    #product .pro .des i{
-        font-size: 10px;
-    }
-    #product .pro .des h4{
-        font-size: 16px;
     }
     #banner{
         height: 20vh;
